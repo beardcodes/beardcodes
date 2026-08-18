@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Hello World!, I'm beardnetworks, a Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.beardnetwork.online)<br>👨🏼‍🎓 Learning Kubernetes and Devops
+🛜 currently working on my own [webpage](https://www.beardnetworks.cc)<br>👨🏼‍🎓 Learning Kubernetes and Devops
 <br>👨🏼‍💻 working as a Pentester since 2022 
 <br>♾️ just started out with documenting my journey in DevOps
 
